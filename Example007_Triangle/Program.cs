@@ -39,6 +39,6 @@ while(count < 10);
         y = (y+yc)/2;
     }
     Console.SetCursorPosition(x,y);
-    Console.WriteLine("+");
+    Console.Write("+");
     count++;
 }
